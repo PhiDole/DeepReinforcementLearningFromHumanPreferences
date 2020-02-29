@@ -17,10 +17,13 @@ into account from half of the total number of episodes.
 Here examples of training with human preference:
 
 
+![](gifs/rl_training1.gif)
+
+
 ![](gifs/rl_training.gif)
 
 
-![](gifs/rl_training1.gif)
+
 ### mettre les gifs
 
 ## Results
