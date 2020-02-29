@@ -18,7 +18,6 @@ Here examples of training with human preference:
 
 
 ![](gifs/rl_training.gif)
-
 ![](gifs/rl_training1.gif)
 ### mettre les gifs
 
@@ -36,4 +35,6 @@ and the human intervention doesn't really benefits this environment.
 ## References
 
 [https://github.com/gsurma/cartpole/blob/master/cartpole.py](https://github.com/gsurma/cartpole/blob/master/cartpole.py)
+
+
 [https://github.com/ZachisGit/LearningFromHumanPreferences](https://github.com/ZachisGit/LearningFromHumanPreferences)
