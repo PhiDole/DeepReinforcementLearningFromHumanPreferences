@@ -18,16 +18,26 @@ Here examples of training with human preference:
 
 
 ![](gifs/rl_training.gif)
+
+
 ![](gifs/rl_training1.gif)
 ### mettre les gifs
 
 ## Results
 
 Training without human preferences:
+
+
 ![](plots/dqn/dqn_score_self_2020-02-29_13-52-11.png)
 
+
+
 training with human preferences:
+
+
 ![](plots/dqn/dqn_score_Human_2020-02-29_17-48-20.png)
+
+
 
 The results with human choice are limitates by the fact that the default reward for the cartpole are already very effective
 and the human intervention doesn't really benefits this environment.
