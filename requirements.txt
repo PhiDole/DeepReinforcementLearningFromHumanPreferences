@@ -3,5 +3,3 @@ pytorch
 gym
 opencv-python
 matplotlib
-tensorflow
-keras
