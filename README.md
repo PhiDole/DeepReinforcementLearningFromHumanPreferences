@@ -14,7 +14,7 @@ human choice. When this last option is chosen, during the training, the user has
 one is the best by entering either 1, 2 or 3 (if both simulation are similar). The human choice for the reward is taken 
 into account from half of the total number of episodes.
 
-Here examples of training with human preference:
+Here examples of training with human preferences:
 
 
 ![](gifs/rl_training1.gif)
