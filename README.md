@@ -43,7 +43,7 @@ training with human preferences:
 
 
 The results with human choice are limitates by the fact that the default reward for the cartpole are already very effective
-and the human intervention doesn't really benefits this environment.
+and the human intervention doesn't really benefit this environment.
 
 ## References
 
