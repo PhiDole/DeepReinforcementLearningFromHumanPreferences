@@ -24,8 +24,6 @@ Here examples of training with human preferences:
 
 
 
-### mettre les gifs
-
 ## Results
 
 Training without human preferences:
@@ -42,7 +40,7 @@ training with human preferences:
 
 
 
-The results with human choice are limitates by the fact that the default reward for the cartpole are already very effective
+The results with human choice are limitated by the fact that the default reward for the cartpole are already very effective
 and the human intervention doesn't really benefit this environment.
 
 ## References
